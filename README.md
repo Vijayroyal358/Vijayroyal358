@@ -65,16 +65,20 @@
 
 ###
 
-<br clear="both">
+<div align="center">
+  <a href="https://open.spotify.com/user/313pd3sz3wlvrnqndf4q4t24uarm">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?count=2&unique=true" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
 
 <img src="https://raw.githubusercontent.com/Vijayroyal358/Vijayroyal358/output/snake.svg" alt="Snake animation" />
 
 ###
 
 <div align="center">
-  <a href="https://open.spotify.com/user/313pd3sz3wlvrnqndf4q4t24uarm">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?count=2&unique=true" alt="Spotify recently played"  />
-  </a>
+  <img src="https://profile-counter.glitch.me/Vijayroyal358/count.svg?"  />
 </div>
 
 ###
