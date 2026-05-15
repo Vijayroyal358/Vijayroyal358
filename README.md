@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Vijay Royal and I'm an IT guy, from Tirupati.</h2>
+<h2 align="left">Hi 👋! My name is Sunkara Vijay Kumar and I'm an IT guy, from Tirupati.</h2>
 
 ###
 
