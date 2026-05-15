@@ -1,11 +1,7 @@
 <h1 align="left">Hi 👋! I'm Sunkara Vijay Kumar</h1>
 <h3 align="left">Network Monitoring & Telecom Automation Engineer | Python | Linux | 5G/4G/2G | 🏆 STAR Award Winner</h3>
 
-###
-
 <img align="right" height="150" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
-
-###
 
 🌐 **Associate Engineer** at **Parallel Wireless**, Bengaluru
 ⚡ Building automation tools for live **2G/4G/5G telecom environments**
@@ -13,9 +9,7 @@
 🏆 **STAR Award Winner** — Telecom Automation & Operational Efficiency
 📜 Certified: **Power BI Data Analyst** | **Azure Data Engineer**
 🎓 B.Tech in Information Technology — 80% | SVEC, Tirupati
-📍 Bengaluru, India
-
-###
+📍 Bengaluru, India | 🌐 [Portfolio](https://sunkaravijaykumarportfolio.in/)
 
 ---
 
@@ -53,8 +47,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva" />
 </div>
 
-###
-
 ---
 
 ### 🚀 Key Projects
@@ -66,7 +58,17 @@
 | 📊 **LTE KPI Dashboard** | Real-time dashboard for RRC, ERAB, S1AP, CSSR & HOSR metrics |
 | 🌐 **IP Performance Testing** | Backhaul microwave link testing + automated CSV reports — 🏆 STAR Award |
 
-###
+---
+
+### 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Vijayroyal358&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" height="150" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vijayroyal358&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="150" />
+</div>
 
 ---
 
@@ -96,18 +98,7 @@
   </a>
 </div>
 
-###
-
 ---
-
-### 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vijayroyal358&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vijayroyal358&layout=compact&theme=tokyonight&hide_border=true" height="150" />
-</div>
-
-###
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/Vijayroyal358/count.svg?" />
